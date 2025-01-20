@@ -1,1 +1,0 @@
-This is the basics of cpp STL conatiner stack.
